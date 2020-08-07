@@ -2,5 +2,6 @@ streamlit
 numpy
 matplotlib
 Pillow
-PyYAMLtorch==1.5.0+cpu torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+PyYAML
+torch==1.5.0+cpu torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 
